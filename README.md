@@ -83,7 +83,6 @@ They are kept for reference but are not maintained.
 ├── legacy/                      # earlier notebook variants (sampler, estimator, etc.)
 ├── results/                     # sample outputs from hardware runs
 ├── requirements.txt
-├── LICENSE
 └── README.md
 ```
 
