@@ -116,7 +116,7 @@ increase the path-register width and gate depth.
 The statevector implementation is checked against the exact Jones polynomial
 evaluated at $q = e^{2\pi i / k}$ for small braids, where the exact value can
 be computed by direct matrix multiplication of the path-model representation.
-The test suite in `tests/` covers:
+
 
 - Unitarity of the controlled braid gates.
 - Agreement of the Hadamard test with the exact real and imaginary parts for
